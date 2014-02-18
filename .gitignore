@@ -8,3 +8,4 @@
 /configure
 /*.diff
 /*.patch
+/avarice.spec
